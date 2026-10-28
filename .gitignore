@@ -1,0 +1,6 @@
+# Ignore exported message text files so personal data stays private
+*.txt
+
+# Ignore Python compiled cache files
+__pycache__/
+*.py[cod]
